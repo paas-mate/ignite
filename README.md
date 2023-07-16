@@ -1,6 +1,6 @@
-# rocketmq
+# ignite
 ## usage
 ### dry run
 ```bash
-docker run -it ttbb/rocketmq:nake bash
+docker run -it ttbb/ignite:nake bash
 ```
